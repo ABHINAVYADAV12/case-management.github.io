@@ -25,9 +25,11 @@
     "express-ejs-layouts": "^2.5.0",
     "express-flash": "0.0.2",
     "express-session": "^1.17.1",
+    "json": "^11.0.0",
     "mongoose": "^5.9.11",
     "passport": "^0.4.1",
     "passport-local": "^1.0.0",
+    "server": "^1.0.38",
     "socket.io": "^2.4.0"
   },
   "devDependencies": {
